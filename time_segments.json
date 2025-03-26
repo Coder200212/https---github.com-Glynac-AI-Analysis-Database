@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "157b4b14-f446-47ad-b264-7ee92c0c5f7f",
+    "segment_date": "2023-01-13",
+    "hour": 10,
+    "minute": 15,
+    "week_no": 2,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "d604ed4b-39f2-4d75-91ff-c2965b154d5d",
+    "segment_date": "2023-01-31",
+    "hour": 2,
+    "minute": 45,
+    "week_no": 5,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "4b6e7505-a094-42df-b37c-423688a6cf74",
+    "segment_date": "2023-01-29",
+    "hour": 9,
+    "minute": 0,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "05aac1e1-e578-4e26-8dd4-bdf0be44047b",
+    "segment_date": "2023-01-30",
+    "hour": 4,
+    "minute": 45,
+    "week_no": 5,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "b0f0e4ee-f49e-4dbe-a4c9-59ecaea8e4b5",
+    "segment_date": "2023-01-21",
+    "hour": 13,
+    "minute": 45,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "b2e73c9a-7db6-454e-926c-f734e60ab746",
+    "segment_date": "2023-01-01",
+    "hour": 2,
+    "minute": 30,
+    "week_no": 52,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "aa7338e9-6fec-467f-aabc-d4300ff5f29b",
+    "segment_date": "2023-01-16",
+    "hour": 13,
+    "minute": 30,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "57da0fe7-c26d-4999-95f7-1e68e1f81581",
+    "segment_date": "2023-01-24",
+    "hour": 8,
+    "minute": 0,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "770c7893-0970-4a07-81bf-8fe22941287a",
+    "segment_date": "2023-01-21",
+    "hour": 2,
+    "minute": 30,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "1f12f561-ea9a-40aa-8570-45e9d116e4b4",
+    "segment_date": "2023-01-05",
+    "hour": 0,
+    "minute": 0,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "2d14b563-6d6f-4142-94e0-170f7268be23",
+    "segment_date": "2023-01-18",
+    "hour": 21,
+    "minute": 0,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "8a90fca2-5085-4c94-9845-eada9da3acc0",
+    "segment_date": "2023-01-29",
+    "hour": 20,
+    "minute": 15,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "36f88e67-cd2a-4c76-8c04-4a86d7312db9",
+    "segment_date": "2023-01-26",
+    "hour": 21,
+    "minute": 30,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "957a4b76-997f-4078-a3fb-68248086b128",
+    "segment_date": "2023-01-10",
+    "hour": 15,
+    "minute": 30,
+    "week_no": 2,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "e9fe23ea-e2a1-4afb-917e-2276bd8ccd6a",
+    "segment_date": "2023-01-15",
+    "hour": 2,
+    "minute": 15,
+    "week_no": 2,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "0d342ad4-a226-482c-8833-2ac2bda5fd09",
+    "segment_date": "2023-01-17",
+    "hour": 7,
+    "minute": 30,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "0dc8f10a-6cb0-4743-84e0-46d4e9a39390",
+    "segment_date": "2023-01-01",
+    "hour": 21,
+    "minute": 15,
+    "week_no": 52,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "e16de0cd-631e-4343-bd71-9a3029d06491",
+    "segment_date": "2023-01-13",
+    "hour": 2,
+    "minute": 30,
+    "week_no": 2,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "6f7c964c-4710-480b-86bf-d31f1f272fc5",
+    "segment_date": "2023-01-25",
+    "hour": 18,
+    "minute": 30,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "b791c7ae-3119-4ce0-bada-a65376aba84a",
+    "segment_date": "2023-01-20",
+    "hour": 12,
+    "minute": 0,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "97b2db5b-6d38-4864-b303-8238fe0aed24",
+    "segment_date": "2023-01-27",
+    "hour": 3,
+    "minute": 45,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "0b2c5792-8aa3-4345-9385-8f542224a6de",
+    "segment_date": "2023-01-14",
+    "hour": 16,
+    "minute": 15,
+    "week_no": 2,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "e8aac4ce-d1b9-461f-aff2-9388fd92bada",
+    "segment_date": "2023-01-06",
+    "hour": 18,
+    "minute": 30,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "3eaba2cc-abe9-45c7-a0ab-8100384a4d37",
+    "segment_date": "2023-01-05",
+    "hour": 5,
+    "minute": 45,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "a3d01aa0-6bcf-45b8-9c26-5d1e654371c1",
+    "segment_date": "2023-01-03",
+    "hour": 11,
+    "minute": 15,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "1580b8dd-5440-4cd0-8f48-049c5827bfcf",
+    "segment_date": "2023-01-24",
+    "hour": 10,
+    "minute": 30,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "ec5b5cd6-3cb7-4e29-b57c-19f6e410a1d8",
+    "segment_date": "2023-01-02",
+    "hour": 7,
+    "minute": 15,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "50035a77-3148-4df0-b2cf-7dc723ecd472",
+    "segment_date": "2023-01-05",
+    "hour": 0,
+    "minute": 0,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "976a9fda-3298-4524-8fff-8641d01079cf",
+    "segment_date": "2023-01-05",
+    "hour": 0,
+    "minute": 45,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "601c2c0b-1006-4f97-aa39-b91856fc364a",
+    "segment_date": "2023-01-04",
+    "hour": 20,
+    "minute": 0,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "e4394c41-c803-43a6-ad7b-fd383ad92202",
+    "segment_date": "2023-01-02",
+    "hour": 18,
+    "minute": 45,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "d3485608-1f3f-4966-9a4b-0605bcf7c822",
+    "segment_date": "2023-01-21",
+    "hour": 10,
+    "minute": 0,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "5e8c0313-e190-45ff-83c1-1e57aaa7cdee",
+    "segment_date": "2023-01-03",
+    "hour": 1,
+    "minute": 0,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "dab9fa52-b5a7-4d5e-a4eb-5b6d53a751fb",
+    "segment_date": "2023-01-10",
+    "hour": 11,
+    "minute": 30,
+    "week_no": 2,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "9eb2e446-e865-466a-8ab7-1bddd327a6ce",
+    "segment_date": "2023-01-01",
+    "hour": 4,
+    "minute": 45,
+    "week_no": 52,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "b08a6306-4315-431d-94a8-865c08408eba",
+    "segment_date": "2023-01-16",
+    "hour": 19,
+    "minute": 30,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "892e4850-e038-41cb-833e-6845bafe6c34",
+    "segment_date": "2023-01-09",
+    "hour": 23,
+    "minute": 30,
+    "week_no": 2,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "fb99310e-f100-4945-9ef2-8e08afc4ec9b",
+    "segment_date": "2023-01-02",
+    "hour": 4,
+    "minute": 30,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "b3814ad1-2663-454e-ae8b-6050a3696b27",
+    "segment_date": "2023-01-16",
+    "hour": 21,
+    "minute": 45,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "599b03b9-db99-49cb-86e6-24f9ce8c9f40",
+    "segment_date": "2023-01-08",
+    "hour": 12,
+    "minute": 30,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "83be4a03-29cd-441d-abf2-5ff3ab8f2d44",
+    "segment_date": "2023-01-22",
+    "hour": 9,
+    "minute": 0,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "78b9e6ae-7d03-4465-9e20-4b1d3068d52d",
+    "segment_date": "2023-01-26",
+    "hour": 22,
+    "minute": 15,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "0ba34d08-ac8b-4b80-b61f-70cc71a0e5d5",
+    "segment_date": "2023-01-05",
+    "hour": 15,
+    "minute": 0,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "4f041dd9-c73c-4047-b12e-f8de10acf361",
+    "segment_date": "2023-01-09",
+    "hour": 8,
+    "minute": 0,
+    "week_no": 2,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "e784fab5-d0fa-481a-9543-e726435f673b",
+    "segment_date": "2023-01-16",
+    "hour": 12,
+    "minute": 30,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "1d37e9b7-6879-4b7b-b9ba-0d378d7d00e2",
+    "segment_date": "2023-01-27",
+    "hour": 1,
+    "minute": 15,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "6ed40f2f-0532-4a6f-a081-98ca8249cede",
+    "segment_date": "2023-01-24",
+    "hour": 6,
+    "minute": 30,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "fe9014e8-e7c9-4a59-9a4e-1ef4168798d3",
+    "segment_date": "2023-01-19",
+    "hour": 14,
+    "minute": 45,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "1fdde752-36bf-4d40-b9c9-0de61e59245b",
+    "segment_date": "2023-01-25",
+    "hour": 21,
+    "minute": 45,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "f228fcad-4b8e-4aa9-a7fb-b8cf76dfaff7",
+    "segment_date": "2023-01-15",
+    "hour": 8,
+    "minute": 15,
+    "week_no": 2,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "00ab18e5-0ccb-46b2-a551-d86d1467f18f",
+    "segment_date": "2023-01-23",
+    "hour": 8,
+    "minute": 30,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "cb39ad45-0dbc-4a72-93fe-2bbea036d07b",
+    "segment_date": "2023-01-01",
+    "hour": 12,
+    "minute": 30,
+    "week_no": 52,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "e2922b71-1663-4c7d-a2cc-e156d6a6f5e4",
+    "segment_date": "2023-01-14",
+    "hour": 11,
+    "minute": 45,
+    "week_no": 2,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "3cb72108-2235-4af6-be24-e32bbc2e8082",
+    "segment_date": "2023-01-23",
+    "hour": 16,
+    "minute": 30,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "f76dc8b4-669b-4b96-8da0-35603bcb43bf",
+    "segment_date": "2023-01-20",
+    "hour": 2,
+    "minute": 0,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "0ac13e8a-40bd-4713-851a-02dad31f0c6a",
+    "segment_date": "2023-01-07",
+    "hour": 11,
+    "minute": 30,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "6cb2b9b9-7918-4c37-b96a-102c2024104a",
+    "segment_date": "2023-01-21",
+    "hour": 9,
+    "minute": 30,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "98369b2b-8386-40c4-a3ff-7fe238647bcb",
+    "segment_date": "2023-01-07",
+    "hour": 18,
+    "minute": 45,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "8cc93697-e02a-475b-b282-44923ba894e4",
+    "segment_date": "2023-01-06",
+    "hour": 9,
+    "minute": 0,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "b6b3fdce-88cc-468d-bb71-5f6b1e3fbb55",
+    "segment_date": "2023-01-07",
+    "hour": 10,
+    "minute": 0,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "7109dba8-87cc-4a82-b7a2-5f7acb0cd804",
+    "segment_date": "2023-01-04",
+    "hour": 20,
+    "minute": 30,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "d480f223-2555-4ebe-b7f6-c641c623841a",
+    "segment_date": "2023-01-26",
+    "hour": 15,
+    "minute": 15,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "021df78f-2dcc-4063-82ac-e2aa304e18e2",
+    "segment_date": "2023-01-12",
+    "hour": 4,
+    "minute": 45,
+    "week_no": 2,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "687c4275-8cdf-4fa9-9672-df7dacf2d94c",
+    "segment_date": "2023-01-31",
+    "hour": 13,
+    "minute": 0,
+    "week_no": 5,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "a1c790e6-7437-4d12-ba1a-dfddd1a943b0",
+    "segment_date": "2023-01-07",
+    "hour": 21,
+    "minute": 0,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "6c57f0b9-9952-4e9e-a882-66d483d2a49d",
+    "segment_date": "2023-01-21",
+    "hour": 16,
+    "minute": 0,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "c02effa5-ed64-44b7-8dd4-859ea2f5fd20",
+    "segment_date": "2023-01-12",
+    "hour": 21,
+    "minute": 15,
+    "week_no": 2,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "c711b5a6-40af-4f21-85d1-3f18bb44b143",
+    "segment_date": "2023-01-05",
+    "hour": 16,
+    "minute": 0,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "fced137e-0030-4a65-ada2-a04c7a1e5f3f",
+    "segment_date": "2023-01-10",
+    "hour": 23,
+    "minute": 0,
+    "week_no": 2,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "ab6fa349-9875-4e9a-94d6-549399dd9197",
+    "segment_date": "2023-01-18",
+    "hour": 5,
+    "minute": 15,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "f5e1cc9c-d4bf-4556-95ab-572a35f5ff0d",
+    "segment_date": "2023-01-05",
+    "hour": 6,
+    "minute": 30,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "4095f782-d357-46a2-857b-a69181cd4eca",
+    "segment_date": "2023-01-06",
+    "hour": 17,
+    "minute": 15,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "94fa5712-e752-4130-af62-8d06eb9f9682",
+    "segment_date": "2023-01-22",
+    "hour": 9,
+    "minute": 15,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "d7d3e415-43d2-47ec-b117-670b6965b623",
+    "segment_date": "2023-01-22",
+    "hour": 6,
+    "minute": 45,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "4c54e836-9913-447f-aea0-43dcd2daee26",
+    "segment_date": "2023-01-06",
+    "hour": 4,
+    "minute": 30,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "6d44c6b5-6b4e-41cb-a6d6-ccf17c746fe4",
+    "segment_date": "2023-01-19",
+    "hour": 11,
+    "minute": 45,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "64b580ee-b4a3-4495-be48-6a8b46142c1f",
+    "segment_date": "2023-01-01",
+    "hour": 15,
+    "minute": 0,
+    "week_no": 52,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "a26a0b5a-0603-4b6a-8d71-dbc6b467b9f7",
+    "segment_date": "2023-01-22",
+    "hour": 13,
+    "minute": 30,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "fffbcef0-8bec-4fa9-8bb8-c8090d895c35",
+    "segment_date": "2023-01-24",
+    "hour": 21,
+    "minute": 15,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "697c01c3-75a7-44c8-adc3-185e7515e77e",
+    "segment_date": "2023-01-23",
+    "hour": 6,
+    "minute": 0,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "94581848-486a-47d1-81c8-d2e900933e8c",
+    "segment_date": "2023-01-21",
+    "hour": 4,
+    "minute": 0,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "dc71dff7-c221-4973-b848-3b94443b72ad",
+    "segment_date": "2023-01-26",
+    "hour": 23,
+    "minute": 15,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "b98e0e8d-7509-4f37-acdb-af69b0573b23",
+    "segment_date": "2023-01-28",
+    "hour": 6,
+    "minute": 45,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "10d76355-ff87-4f38-b2be-ae92ec3a3f38",
+    "segment_date": "2023-01-27",
+    "hour": 6,
+    "minute": 15,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "8b75682c-40e3-4016-9f9f-1826f0af1d7f",
+    "segment_date": "2023-01-14",
+    "hour": 3,
+    "minute": 30,
+    "week_no": 2,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "106855ba-7799-49c1-841a-c6dfd1ba80f3",
+    "segment_date": "2023-01-25",
+    "hour": 0,
+    "minute": 15,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "e6ac38ef-ccbf-4d57-9746-4f0f852caebc",
+    "segment_date": "2023-01-16",
+    "hour": 19,
+    "minute": 45,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "dc11903c-5958-4506-8bd6-e58798bbdd54",
+    "segment_date": "2023-01-23",
+    "hour": 8,
+    "minute": 15,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "4483fb36-f848-42c4-8579-6b1eafec02cf",
+    "segment_date": "2023-01-29",
+    "hour": 22,
+    "minute": 30,
+    "week_no": 4,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "a3a4699f-320a-4ff7-b03f-44adfa2bc5cd",
+    "segment_date": "2023-01-01",
+    "hour": 20,
+    "minute": 30,
+    "week_no": 52,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "aee11632-8f81-4490-bc35-1f0b7cd25b25",
+    "segment_date": "2023-01-16",
+    "hour": 20,
+    "minute": 45,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "9e8d9e59-2432-4788-920c-1213b93993f3",
+    "segment_date": "2023-01-06",
+    "hour": 0,
+    "minute": 30,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "721b8a35-4d9a-4c68-a8cb-210ecd15685b",
+    "segment_date": "2023-01-12",
+    "hour": 10,
+    "minute": 15,
+    "week_no": 2,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "2d305695-5b9c-4e02-a8b7-f44be963a1da",
+    "segment_date": "2023-01-15",
+    "hour": 10,
+    "minute": 45,
+    "week_no": 2,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "0ce89e33-3ea0-4511-9b33-920b7370ad44",
+    "segment_date": "2023-01-11",
+    "hour": 4,
+    "minute": 15,
+    "week_no": 2,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "f3a29bf2-2ddb-4639-9dfc-b8d25804b544",
+    "segment_date": "2023-01-10",
+    "hour": 14,
+    "minute": 30,
+    "week_no": 2,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "914d441c-51b3-4b01-8800-54b8fa8950cc",
+    "segment_date": "2023-01-04",
+    "hour": 12,
+    "minute": 15,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "30f873de-db91-4ace-8579-353d51d24709",
+    "segment_date": "2023-01-19",
+    "hour": 4,
+    "minute": 0,
+    "week_no": 3,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "32265b97-87a6-4028-ba30-036cba02cab6",
+    "segment_date": "2023-01-15",
+    "hour": 20,
+    "minute": 15,
+    "week_no": 2,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  },
+  {
+    "id": "b70c8f96-2bce-458f-b6a8-9ad1c63db340",
+    "segment_date": "2023-01-03",
+    "hour": 19,
+    "minute": 45,
+    "week_no": 1,
+    "month_no": 1,
+    "createdAt": "2025-03-24T23:13:39.950361",
+    "updatedAt": "2025-03-24T23:13:39.950361"
+  }
+]
